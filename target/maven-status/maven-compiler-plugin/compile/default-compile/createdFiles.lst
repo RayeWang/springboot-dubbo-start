@@ -1,4 +1,4 @@
 wang\raye\springboot\dubbo\bean\DubboConfig.class
-wang\raye\springboot\dubbo\config\DubboAutoConfig.class
 wang\raye\springboot\dubbo\bean\Service.class
 wang\raye\springboot\dubbo\config\Scan.class
+wang\raye\springboot\dubbo\config\DubboAutoConfig.class
